@@ -1,0 +1,12 @@
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\bin\Debug\net6.0\Eleicoes.deps.json
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\bin\Debug\net6.0\Eleicoes.dll
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\bin\Debug\net6.0\Eleicoes.pdb
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.csproj.AssemblyReference.cache
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.AssemblyInfoInputs.cache
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.AssemblyInfo.cs
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.csproj.CoreCompileInputs.cache
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.dll
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\refint\Eleicoes.dll
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\Eleicoes.pdb
+C:\Users\jlemo\source\repos\Eleicoes\Eleicoes\obj\Debug\net6.0\ref\Eleicoes.dll
